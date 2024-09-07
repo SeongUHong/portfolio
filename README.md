@@ -11,11 +11,7 @@ Hong Seongwoo<br>
 
 ## <p id="crystal_ascendant">Crystal Ascendant(ゲームクライアント)</p>
 
-
 <img src="https://github.com/user-attachments/assets/5c6b7128-020d-4fdd-a3d7-998d5efc1306" style="width:500px">
-
-### ゲームプレイ
-<a href="https://h-ame.itch.io/crystal-ascendant">itch.io</a>
 
 ### 開発環境
 Windwos, Unity, C#, Git
@@ -23,6 +19,17 @@ Windwos, Unity, C#, Git
 ### 開発期間
 
 2023.07-2023.11, 2024.07-2024.09 (8ヶ月間)
+
+### 関連リンク
+
+<ul>
+  <li>
+    <a href="https://h-ame.itch.io/crystal-ascendant">ゲームプレイ(ブラウザ上起動)</a>
+  </li>
+  <li>
+    <a href="https://github.com/SeongUHong/project_fg">GitHub</a>
+  </li>
+</ul>
 
 ### プロジェクト詳細
 
@@ -35,3 +42,28 @@ Unityを利用して開発した3Dディフェンスゲームです。右側か�
   突然現れた謎のクリスタルは、その登場と同時に強大なエネルギーを放ち、モンスターを召喚して人間社会を破壊し始めた。その瞬間に巻き込まれた主人公は魔法の力を得たことに気づく。崩壊した世界の中で、主人公はその魔法の力を仲間たちに分け与え、人類の最後の希望としてモンスターに立ち向かう。
 </details>
 
+### 機能
+
+<details>
+  <summary>スキル・ユニットアップグレード</summary>
+</details>
+
+<details>
+  <summary>ユニット召喚</summary>
+</details>
+
+<details>
+  <summary>スキル</summary>
+</details>
+
+<details>
+  <summary>モンスタースポーン</summary>
+</details>
+
+<details>
+  <summary>データの拡張性</summary>
+</details>
+
+<details>
+  <summary>他職種を考慮した設計</summary>
+</details>
