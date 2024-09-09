@@ -106,3 +106,38 @@ Unityを利用して開発した3Dディフェンスゲームです。右側か�
   ユニットやモンスターの出現位置は、SpawnSpotオブジェクトのポジションを参照するため、新しいマップを作成するデザイナーは、SpawnSpotの位置を調整するだけでモンスターの出現場所を自由に設定できます。これにより、いちいちエンジニアに共有する手間が省けます。<br>
   また、スキルのレベル別ステータスやステージごとのモンスター設定は、JSON形式の設定ファイルで管理されています。プログラミングをしない企画職の方でも、設定ファイルを修正するだけで簡単にステータスや出現モンスターを調整できるため、エンジニアのサポートを必要とせず、効率よくゲームバランスを調整可能です。
 </details>
+
+## <p id="lamoom">Lamoon(ゲームサーバー)</p>
+
+<img src="https://github.com/user-attachments/assets/c02018a2-923b-475f-8cb4-bace4c1fc65c" style="width:500px"><br>
+
+### 開発環境
+Windwos, Unity, .NET Framework, C#, Git
+
+### 開発期間
+
+2024.03-2024.06 (4ヶ月間)
+
+### 関連リンク
+
+<ul>
+  <li>
+    <a href="https://h-ame.itch.io/ramoon">ゲームダウンロード</a>
+  </li>
+  <li>
+    <a href="https://github.com/SeongUHong/project-sg">GitHub</a>
+  </li>
+</ul>
+
+### プロジェクト詳細
+
+.NET FrameworkとC#利用して開発したリアルタイム対戦ゲームサーバーです。プレイヤーはニックネームを入力してマッチングを開始し、マッチングした相手と対戦します。戦闘機を操作してミサイルを発射し、先に相手のHPをゼロにした方が勝者となります。
+
+<img src="https://github.com/user-attachments/assets/ab37b404-49f1-4dac-807a-12af464e2632" style="width:330px"><img src="https://github.com/user-attachments/assets/59276552-ee07-4b52-93c0-bbefd66d25d9" style="width:330px"><img src="https://github.com/user-attachments/assets/29f92d79-b18d-4738-9dc1-0394349c8155" style="width:330px">
+
+<details>
+  <summary>世界観</summary>
+	資源が枯渇した未来の人類。宇宙を探索していた彼らは、ラムネでできた惑星「Ramoon」を発見する。地球から遥かに離れた宇宙では、守るべき法など存在しなかった。ただ、いち早くこの惑星を占領した者がRamoonの資源を支配できるという事実だけが存在する。
+</details>
+
+### 機能
