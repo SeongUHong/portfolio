@@ -131,7 +131,7 @@ Windwos, Unity, .NET Framework, C#, Git
 
 ### プロジェクト詳細
 
-.NET FrameworkとC#利用して開発したリアルタイム対戦ゲームサーバーです。プレイヤーはニックネームを入力してマッチングを開始し、マッチングした相手と対戦します。戦闘機を操作してミサイルを発射し、先に相手のHPをゼロにした方が勝者となります。
+.NET FrameworkとC#利用して開発したリアルタイム対戦ゲームサーバーです。プレイヤーはニックネームを入力してマッチングを開始し、マッチングした相手と対戦します。戦闘機を操作してミサイルを発射し、先に相手のHPをゼロにした方が勝者となり、制限時間内に決着がつかない場合は引き分けとなります。
 
 <img src="https://github.com/user-attachments/assets/ab37b404-49f1-4dac-807a-12af464e2632" style="width:330px"><img src="https://github.com/user-attachments/assets/59276552-ee07-4b52-93c0-bbefd66d25d9" style="width:330px"><img src="https://github.com/user-attachments/assets/29f92d79-b18d-4738-9dc1-0394349c8155" style="width:330px">
 
@@ -141,3 +141,43 @@ Windwos, Unity, .NET Framework, C#, Git
 </details>
 
 ### 機能
+
+<details>
+  <summary>ニックネームの設定</summary>
+	<img src="https://github.com/user-attachments/assets/aba9c53b-8d26-4e16-ab93-0a0ab74ebc85" style="width:330px">
+</details>
+
+<details>
+  <summary>マッチング</summary>
+	<img src="https://github.com/user-attachments/assets/33987178-fa51-4ecc-8746-106106f87e50" style="width:330px">
+</details>
+
+<details>
+  <summary>HPとミサイルゲージ</summary>
+	<img src="https://github.com/user-attachments/assets/30aec94f-5109-484f-b5a7-6a67d529e837" style="width:330px">
+</details>
+
+<details>
+  <summary>時間切れと強制終了</summary>
+	<img src="https://github.com/user-attachments/assets/ab03e679-e518-4a24-ac28-f2834de6d690" style="width:330px">
+</details>
+
+<details>
+  <summary>パケットクラス自動生成</summary>
+	XMLファイルでパケットを定義し、PacketGeneratorプログラムを実行すると、そのXMLファイルの内容に基づいてパケットクラスが自動的に生成されます。このプロセスにより、パケットの修正があっても、パケットクラスを手動で修正する必要がなくなります。また、サーバーとクライアント間でパケットクラスの不一致を防ぎ、一貫した通信プロトコルを維持することができます。
+
+```xml
+<packet name="S_Gameover">
+	<int name="status"/>
+</packet>
+<packet name="S_CountTime">
+	<int name="remainSec"/>
+</packet>
+<packet name="C_Move">
+	<float name="posX"/>
+	<float name="posY"/>
+	<float name="angle"/>
+</packet>
+```
+ 
+</details>
