@@ -53,7 +53,7 @@ Unityを利用して開発した3Dディフェンスゲームです。右側か�
 <details>
   <summary>ユニット召喚</summary>
     <img src="https://github.com/user-attachments/assets/dfd2aa8f-ba3b-42ec-8596-e036907b907c" style="width:330px"><br>
-    時間経過に伴い、召喚ゲージが満たされていきます。そして、一定の召喚ゲージを消費し、ユニットを召喚することができます。召喚されたユニットはクリスタル破壊を目的に進行し、モンスターがいる場合は、近くのモンスターを優先して攻撃します。
+    時間経過に伴い、召喚ゲージがチャージされていきます。そして、一定の召喚ゲージを消費し、ユニットを召喚することができます。召喚されたユニットはクリスタル破壊を目的に進行し、モンスターがいる場合は、近くのモンスターを優先して攻撃します。
 </details>
 
 <details>
@@ -144,22 +144,26 @@ Windwos, Unity, .NET Framework, C#, Git
 
 <details>
   <summary>ニックネームの設定</summary>
-	<img src="https://github.com/user-attachments/assets/aba9c53b-8d26-4e16-ab93-0a0ab74ebc85" style="width:330px">
+	<img src="https://github.com/user-attachments/assets/aba9c53b-8d26-4e16-ab93-0a0ab74ebc85" style="width:330px"><br>
+	マッチングごとにニックネームを設定し、そのニックネームは対戦画面に表示されます。これにより、プレイヤーのステータスが視覚的に区別しやすくなります。
 </details>
 
 <details>
   <summary>マッチング</summary>
-	<img src="https://github.com/user-attachments/assets/33987178-fa51-4ecc-8746-106106f87e50" style="width:330px">
+	<img src="https://github.com/user-attachments/assets/33987178-fa51-4ecc-8746-106106f87e50" style="width:330px"><br>
+	待機中のプレイヤー同士をマッチングし、マッチング後はどちらのプレイヤーもゲーム開始ボタンを押すまでゲームが開始されません。
 </details>
 
 <details>
-  <summary>HPとミサイルゲージ</summary>
-	<img src="https://github.com/user-attachments/assets/30aec94f-5109-484f-b5a7-6a67d529e837" style="width:330px">
+  <summary>ミサイルゲージ</summary>
+	<img src="https://github.com/user-attachments/assets/30aec94f-5109-484f-b5a7-6a67d529e837" style="width:330px"><br>
+	ミサイルの発射には一定量のミサイルゲージを消費します。ミサイルゲージは時間とともに徐々にチャージされていきます。
 </details>
 
 <details>
   <summary>時間切れと強制終了</summary>
-	<img src="https://github.com/user-attachments/assets/ab03e679-e518-4a24-ac28-f2834de6d690" style="width:330px">
+	<img src="https://github.com/user-attachments/assets/ab03e679-e518-4a24-ac28-f2834de6d690" style="width:330px"><br>
+	対戦は制限時間があり、残り時間が対戦画面の上部に表示されます。時間内に決着がつかない場合は引き分けとなります。もしもプレイヤーが強制終了や通信切断で離脱した場合は、残っているプレイヤーの勝利となります。
 </details>
 
 <details>
