@@ -122,7 +122,7 @@ Windwos, Unity, .NET Framework, C#, Git
 
 <ul>
   <li>
-    <a href="https://h-ame.itch.io/ramoon">ゲームダウンロード</a>
+    <a href="https://h-ame.itch.io/ramoon">ゲームダウンロード(android)</a>
   </li>
   <li>
     <a href="https://github.com/SeongUHong/project-sg">GitHub</a>
