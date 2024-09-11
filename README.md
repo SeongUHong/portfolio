@@ -187,6 +187,7 @@ Windwos, Unity, .NET Framework, C#, Git
 </details>
 
 ## <p id="blog">Blog(Webアプリケーション)</p>
+<img src="https://github.com/user-attachments/assets/634163ca-d40e-4778-a0e4-4fa7f8a7be18" style="width:500px">
 
 ### 開発環境
 Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
@@ -207,5 +208,6 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 </ul>
 
 ### プロジェクト詳細
+Laravel Frameworkと利用して開発したWebアプリケーションです。ブログ運営を目的としており、HTMLやCSSの知識がなくてもスタイル付きの記事を簡単に投稿できます。また、端末の画面サイズに応じてレイアウトが自動的に調整され、どのデバイスでも快適に閲覧できます。
 
 ### 機能
