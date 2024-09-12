@@ -208,55 +208,63 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 </ul>
 
 ### プロジェクト詳細
-Laravel Frameworkと利用して開発したWebアプリケーションです。ブログ運営を目的としており、HTMLやCSSの知識がなくてもスタイル付きの記事を簡単に投稿できます。また、端末の画面サイズに応じてレイアウトが自動的に調整され、どのデバイスでも快適に閲覧できます。
+Laravel Frameworkと利用して開発したWebアプリケーションです。日本での生活に関する記事を日本語と韓国語で投稿するブログ運営を目的としています。HTMLやCSSの知識がなくても、スタイル付きの記事を簡単に投稿できます。端末の画面サイズに応じてレイアウトが自動的に調整され、どのデバイスでも快適に閲覧できます。
 
 ### 機能
 
 <details>
 	<summary>レスポンシブデザイン</summary>
 	<img src="https://github.com/user-attachments/assets/c6a3e1a0-3000-413d-a77f-6cb9f14b8482" style="width:200px">
-	<img src="https://github.com/user-attachments/assets/89f32d7d-7378-47bc-bc9b-9c1e96eaf029" style="width:200px"><br>
+	<img src="https://github.com/user-attachments/assets/89f32d7d-7378-47bc-bc9b-9c1e96eaf029" style="width:200px"><br>	
+	端末のサイズに応じてレイアウトが自動的に調整されます。幅が狭いスマホなどの端末では、モバイル専用の画面レイアウトに切り替わり、快適な表示が提供されます。
 </details>
 <details>
 	<summary>記事の絞り込み</summary>
 	<img src="https://github.com/user-attachments/assets/2b70f348-e4cc-46f1-9382-a1ef935f4d9d" style="width:420px"><br>
+ 	記事はカテゴリーごとに絞り込んで表示することができます。
 </details>
 <details>
 	<summary>記事管理</summary>
 	<img src="https://github.com/user-attachments/assets/a350fa0a-2441-4860-b3b4-7aa60e66189f" style="width:420px"><br>
+	記事一覧を表示し、記事のステータスを確認でいます。編集や削除のボタンを押すと、それぞれの専用画面に移動します。
 </details>
 <details>
 	<summary>カテゴリー管理</summary>
 	<img src="https://github.com/user-attachments/assets/cfe6b318-e8dd-49cf-a0b2-b551b0777c78" style="width:420px"><br>
+	記事を作成する際に設定するカテゴリーは、この画面で追加や削除できます。
 </details>
 <details>
 	<summary>目次自動作成</summary>
-	<img src="" style="width:330px"><br>
+	<img src="https://github.com/user-attachments/assets/f31d3944-de94-4175-89c8-db326afe52af" style="width:330px"><br>
+	記事内のHタグを基に、自動で目次が作成されます。目次の項目を押すと、該当セクションに画面がスクロールします。
 </details>
 
 <details>
 <summary>記事作成</summary>
 <img src="https://github.com/user-attachments/assets/fe9c6a1d-a700-4422-96da-a6e9e0260317" style="width:420px">
 <img src="https://github.com/user-attachments/assets/7b92ee5e-b2b8-496c-89b6-c98a182dac28" style="width:420px"><br>
-テキスト<br>
+記事作成画面には各種ツールが用意されており、それを活用することで簡単に記事を作成できます。
 	
 #### メタデータ追加
 
 <img src="https://github.com/user-attachments/assets/ec311043-17af-4006-88c9-d7b946fdb95b" style="width:200px"><br>
-テキスト<br>
+`+`ボタンを押すと、入力欄がどんどん追加されます。その後、メタデータ追加ボタンを押すと、入力欄に記入したメタデータ情報が全て保存されます。また、各メタデータの右側にある`-`ボタンを押すことで、不要なメタデータを削除することもできます。
 
 #### 画像挿入
 
 <img src="https://github.com/user-attachments/assets/40cc7f67-f5e5-4225-9a53-34552578e08d" style="width:420px"><br>
+画像追加タブで画像を追加すると、その画像は画像リストタブに表示されます。そして、画像リストから画像を選択し、画像タグ追加ボタンを押すと、選択した画像が本文に追加されます。
 
 #### スタイル付き文章挿入
 
 <img src="https://github.com/user-attachments/assets/94966325-9597-40ff-93ae-ce876a950d11" style="width:420px">
 <img src="https://github.com/user-attachments/assets/cd768497-8ce1-4737-a479-856740c172b6" style="width:420px"><br>
+スタイルを選んで文を入力すると、スタイルプレビューエリアにその文がどのように表示されるかがリアルタイムで確認できます。入力ボタンを押すと、プレビューエリアのスタイルが適用された文が本文に追加されます。
 
 #### 記事プレビュー
 
 <img src="https://github.com/user-attachments/assets/04bada4a-b4a9-4e5f-bfd2-b2df244ad418" style="width:420px">
 <img src="https://github.com/user-attachments/assets/39c4b771-d0e0-4f09-9426-de8a1c0786a8" style="width:420px"><br>
+公開される記事の実際の形をプレビューで確認できます。また、Editタブでは本文のHTMLコードを確認でき、直接コードを修正することも可能です。
 
 </details>
