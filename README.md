@@ -211,3 +211,52 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 Laravel Frameworkと利用して開発したWebアプリケーションです。ブログ運営を目的としており、HTMLやCSSの知識がなくてもスタイル付きの記事を簡単に投稿できます。また、端末の画面サイズに応じてレイアウトが自動的に調整され、どのデバイスでも快適に閲覧できます。
 
 ### 機能
+
+<details>
+	<summary>レスポンシブデザイン</summary>
+	<img src="https://github.com/user-attachments/assets/c6a3e1a0-3000-413d-a77f-6cb9f14b8482" style="width:200px">
+	<img src="https://github.com/user-attachments/assets/89f32d7d-7378-47bc-bc9b-9c1e96eaf029" style="width:200px"><br>
+</details>
+<details>
+	<summary>記事の絞り込み</summary>
+	<img src="https://github.com/user-attachments/assets/2b70f348-e4cc-46f1-9382-a1ef935f4d9d" style="width:420px"><br>
+</details>
+<details>
+	<summary>記事管理</summary>
+	<img src="https://github.com/user-attachments/assets/a350fa0a-2441-4860-b3b4-7aa60e66189f" style="width:420px"><br>
+</details>
+<details>
+	<summary>カテゴリー管理</summary>
+	<img src="https://github.com/user-attachments/assets/cfe6b318-e8dd-49cf-a0b2-b551b0777c78" style="width:420px"><br>
+</details>
+<details>
+	<summary>目次自動作成</summary>
+	<img src="" style="width:330px"><br>
+</details>
+
+<details>
+<summary>記事作成</summary>
+<img src="https://github.com/user-attachments/assets/fe9c6a1d-a700-4422-96da-a6e9e0260317" style="width:420px">
+<img src="https://github.com/user-attachments/assets/7b92ee5e-b2b8-496c-89b6-c98a182dac28" style="width:420px"><br>
+テキスト<br>
+	
+#### メタデータ追加
+
+<img src="https://github.com/user-attachments/assets/ec311043-17af-4006-88c9-d7b946fdb95b" style="width:200px"><br>
+テキスト<br>
+
+#### 画像挿入
+
+<img src="https://github.com/user-attachments/assets/40cc7f67-f5e5-4225-9a53-34552578e08d" style="width:420px"><br>
+
+#### スタイル付き文章挿入
+
+<img src="https://github.com/user-attachments/assets/94966325-9597-40ff-93ae-ce876a950d11" style="width:420px">
+<img src="https://github.com/user-attachments/assets/cd768497-8ce1-4737-a479-856740c172b6" style="width:420px"><br>
+
+#### 記事プレビュー
+
+<img src="https://github.com/user-attachments/assets/04bada4a-b4a9-4e5f-bfd2-b2df244ad418" style="width:420px">
+<img src="https://github.com/user-attachments/assets/39c4b771-d0e0-4f09-9426-de8a1c0786a8" style="width:420px"><br>
+
+</details>
