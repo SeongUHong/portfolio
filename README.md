@@ -210,7 +210,7 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 ### プロジェクト詳細
 Laravel Frameworkと利用して開発したWebアプリケーションです。日本での生活に関する記事を日本語と韓国語で投稿するブログ運営を目的としています。HTMLやCSSの知識がなくても、スタイル付きの記事を簡単に投稿できます。端末の画面サイズに応じてレイアウトが自動的に調整され、どのデバイスでも快適に閲覧できます。
 
-<img src="https://github.com/user-attachments/assets/c6a3e1a0-3000-413d-a77f-6cb9f14b8482" style="width:200px"><img src="https://github.com/user-attachments/assets/40cc7f67-f5e5-4225-9a53-34552578e08d" style="width:320px"><img src="https://github.com/user-attachments/assets/04bada4a-b4a9-4e5f-bfd2-b2df244ad418" style="width:320px">
+<img src="https://github.com/user-attachments/assets/c6a3e1a0-3000-413d-a77f-6cb9f14b8482" style="width:200px"><img src="https://github.com/user-attachments/assets/94966325-9597-40ff-93ae-ce876a950d11" style="width:350px">
 
 ### 機能
 
