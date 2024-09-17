@@ -257,14 +257,14 @@ Laravel Frameworkと利用して開発したWebアプリケーションです。
 
 #### スタイル付き文章挿入
 
-<img src="https://github.com/user-attachments/assets/94966325-9597-40ff-93ae-ce876a950d11" style="width:420px">
-<img src="https://github.com/user-attachments/assets/cd768497-8ce1-4737-a479-856740c172b6" style="width:420px"><br>
+<img src="https://github.com/user-attachments/assets/cd768497-8ce1-4737-a479-856740c172b6" style="width:420px">
+<img src="https://github.com/user-attachments/assets/94966325-9597-40ff-93ae-ce876a950d11" style="width:420px"><br>
 スタイルを選んで文を入力すると、スタイルプレビューエリアにその文がどのように表示されるかがリアルタイムで確認できます。入力ボタンを押すと、プレビューエリアのスタイルが適用された文が本文に追加されます。
 
 #### 記事プレビュー
 
-<img src="https://github.com/user-attachments/assets/04bada4a-b4a9-4e5f-bfd2-b2df244ad418" style="width:420px">
-<img src="https://github.com/user-attachments/assets/39c4b771-d0e0-4f09-9426-de8a1c0786a8" style="width:420px"><br>
+<img src="https://github.com/user-attachments/assets/39c4b771-d0e0-4f09-9426-de8a1c0786a8" style="width:420px">
+<img src="https://github.com/user-attachments/assets/04bada4a-b4a9-4e5f-bfd2-b2df244ad418" style="width:420px"><br>
 公開される記事の実際の形をプレビューで確認できます。また、Editタブでは本文のHTMLコードを確認でき、直接コードを修正することも可能です。
 
 </details>
