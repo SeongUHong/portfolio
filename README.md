@@ -122,7 +122,7 @@ Windwos, Unity, .NET Framework, C#, Git
 
 <ul>
   <li>
-    <a href="https://h-ame.itch.io/ramoon">ゲームダウンロード(android)</a>
+    ゲームダウンロード(android)(現在、サーバーを停止しています)
   </li>
   <li>
     <a href="https://github.com/SeongUHong/project-sg">GitHub</a>
@@ -200,7 +200,7 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 
 <ul>
   <li>
-    <a href="https://surviveinjapan.com/">ウェブページ</a>
+    ウェブページ(現在、サーバーを停止しています)
   </li>
   <li>
     <a href="https://github.com/SeongUHong/survive-in-japan">GitHub</a>
