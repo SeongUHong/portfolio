@@ -200,7 +200,7 @@ Linux, PHP, Laravel, Aapache, MySQL, Javascript, CSS, HTML, Git
 
 <ul>
   <li>
-    ウェブページ(現在、サーバーを停止しています)
+    <a href="https://surviveinjapan.com/blog">ウェブページ</a>
   </li>
   <li>
     <a href="https://github.com/SeongUHong/survive-in-japan">GitHub</a>
